@@ -2,7 +2,7 @@
 const express = require("express");
 const app = express();
 
-//PORt find krna h 
+//Port find 
 require("dotenv").config();
 const PORT = process.env.PORT || 3000;
 
